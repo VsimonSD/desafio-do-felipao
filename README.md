@@ -18,7 +18,7 @@ Ao final deve-se exibir uma mensagem:
 
 ### Requisitos (utilização de):
 
-\- Variáveis
-\- Operadores
-\- Laços de repetição
-\- Estruturas de decisões
+- Variáveis
+- Operadores
+- Laços de repetição
+- Estruturas de decisões
